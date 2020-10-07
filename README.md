@@ -1,4 +1,4 @@
-<p align="center"><img src="preview.jpg?v=3" /></p>
+<p align="center"><img src="preview.jpg?v=4" /></p>
 <h1 align="center">language-sl</h1>
 <p align="center">Portuguese translations for WonderCMS (by Alexvf)</p>
 
