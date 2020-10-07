@@ -1,0 +1,89 @@
+OVERLAYS
+    ">Saving","> A gravar"
+    ">Checking for updates",">A procurar actualizações"
+
+
+BUTTONS
+    "> Settings","> Definições"
+
+
+MENU ITEMS
+    ">Current page",">Página actual"
+    ">Menu",">Menu"
+    ">Files",">Ficheiros"
+    ">Themes",">Temas"
+    ">Plugins",">Plugins"
+    ">Security",">Segurança"
+
+
+CURRENT PAGE
+    ">Page title",">Título da página"
+    ">Page keywords",">Palavras relacionadas"
+    ">Page description",">Descrição"
+    "> Delete page","> Apagar página"
+    "return confirm\('Delete (.*?)\?'\)","return confirm('Apagar $1?')"
+
+
+MENU
+    ">Website title","> Título do site"
+    ">Page to display on homepage","> Página inicial do site"
+    ">visit",">visitar"
+    "> Add page","> Adicionar página"
+
+
+FILES
+    ">Upload","> Enviar"
+    ">Delete files","> Apagar ficheiros"
+
+
+THEMES AND PLUGINS
+    "> Check for updates","> Procurar actualizações"
+    "return confirm\('Remove (.*?)\?'\)","return confirm('Remover $1?')"
+    ">Active",">Activo"
+    "return confirm\('Activate (.*?) theme\?'\)","return confirm('Activar $1?')"
+    "> Activate","> Activar"
+    "> More info","> Mais informação"
+    "> Install","> Instalar"
+    ">Installed version:",">Versão instalada:"
+    ">Custom repository",">Repositório"
+    "Enter URL to custom repository","Inserir endereço do repositório"
+    "> Add", "> Adicionar"
+    "> Read more about custom repositories","> Ler mais sobre repositórios"
+
+
+SECURITY
+    ">Admin login URL",">URL da área de administração"
+    ">Save your login URL to log in to your website next time:",">Guarde o URL de acesso para poder voltar a entrar no site:"
+    ">Password",">Palavra-passe"
+    "Old password","Palavra-passe antiga"
+    "New password","Palavra-passe nova"
+    "> Change password","> Alterar palavra-passe"
+
+    "> How to restore backup","> Como restaurar a cópia de segurança"
+    ">Improved security \(Apache only\)",">Segurança melhorada (só no Apache)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Redireccionamento HTTPS, cache 30 dias, iframes só da mesma origem, política de cookies mais exigente."
+    ">ON \(warning: may break your website\)",">Ligado (aviso: pode estragar o website)"
+    ">OFF \(reset htaccess to default\)",">Desligado (reverte o htaccess para o normal)"
+    "> Read more before enabling","> Ler mais antes de activar"
+    ">Backup",">Cópia de segurança"
+    "> Backup website","> Criar cópia de segurança"
+    ">Last 5 logins",">Últimos 5 acessos"
+
+
+STATISTICS
+    ">Statistics",">Estatísticas"
+    ">Today",">Hoje"
+    ">This week",">Esta semana"
+    ">Most popular page",">Página mais popular"
+    ">Pageviews last two weeks",">Visualizações últimas 2 semanas"
+    ">Sessions last two weeks",">Sessões últimas 2 semanas"
+    ">Sessions",">Sessões"
+    ">Pageviews",">Visualizações"
+
+
+FOOTER
+    ">News",">Notícias"
+    ">Community",">Comunidade"
+    ">Docs",">Documentação"
+    ">Donate",">Doar"
+    ">Shop\/Merch",">Loja"
