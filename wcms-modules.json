@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "translation-portuguese": {
+            "name": "Translation Portuguese",
+            "repo": "https://github.com/robiso/translation-portuguese/tree/main",
+            "zip": "https://github.com/robiso/translation-portuguese/archive/main.zip",
+            "summary": "Portuguese translation for WonderCMS settings.",
+            "version": "3.0.1",
+            "image": "https://raw.githubusercontent.com/robiso/translation-portuguese/main/preview.jpg"
+        }
+    }
+}
